@@ -264,30 +264,6 @@ START → Router Agent → [Web Agent | Vector Agent | Geography Agent] → END
 
 MIT License
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📝 Description (Short)
-
-```
-Multi-agent RAG system with intelligent query routing using LangGraph, MCP tools integration (Tavily, Wikipedia, Airbnb), Pinecone vector store, and custom geography services. Features DeepSeek R1 router and Qwen3-32B agents.
-```
-
-## 📝 Description (GitHub About)
-
-```
-🤖 Multi-Agentic RAG with MCP Tools - Intelligent query routing, document search, web search & geography services powered by LangGraph, Groq, and Pinecone
-```
-
-## 🏷️ Topics/Tags
-
-```
-multi-agent, rag, langgraph, langchain, mcp, model-context-protocol, pinecone, groq, qwen, deepseek, fastapi, streamlit, vector-database, retrieval-augmented-generation, ai-agents
-```
-
 
 
 <img width="1867" height="841" alt="image" src="https://github.com/user-attachments/assets/30182077-adf7-444b-a68c-c4eed8c44da3" />
